@@ -7,3 +7,5 @@ ncgen xxx.cdl -o empty_shell_ini.nc
 fill with his initial time hydro data
 
 using croco_tool_xmd1204/Preprocessing/biology/make_ini_fennel.m to add fennel
+
+using make_clm_zsm.py  to do clm and frc file
